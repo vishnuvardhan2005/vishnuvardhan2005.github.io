@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: AboutMe
 permalink: /about/
 ---
+My name is Vishnu Vardhan
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am passionate software developer from India. I love learning and experimenting things
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+The things that exites me most
+-Hanging out with my college best friends
+-Learning new things
+-Problem solving. The feel that we get after solving a good problem is amazing
+-Playing with my son
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+`(My)Sayings`
+Health is more than wealth
