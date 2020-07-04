@@ -14,19 +14,19 @@ Practice practice practice
 
 Like any other skill, if you master communication, you need to practice. Practice in different ways to attack in every aspect possible
 
-##Read
+##Read##
 
 Read stuff. Read books. Make reading a habit, will help a lot
 
-##Write
+##Write##
 
 Write when ever you get a opurtunity. Writing makes your thoughts clear and this is helpful when you are actually speaking
 
-##Listen
+##Listen##
 
 By listening you can learn a lot. Imagine how a get learns new stuff? By listening. Listen to others who communicates better. Listen to podcasts, videos
 
-##Practise
+##Practise##
 
 All the above will equip you with some skill set. If you want to master it, you should use it. Take every opportunity and start speaking. You got to believe yourself. Don't be afraid of making mistakes. Mistakes are fine. You can corect them and get there
 
